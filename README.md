@@ -13,7 +13,7 @@ parameter instead of Vector and type casts, and the for-each loop.
 I also removed the leading underscore on attribute names (`name` instead of `_name`),
 which is more typical of current coding conventions.
 
-The runnable Main class (or Python `main.py`) creates a customer and prints 
+The runnable Main class (or Python `main.py`) creates a customer and prints  
 a statement.
 
 The [PDF from Chapter 1][refactoring_pdf] explains the 
@@ -110,3 +110,4 @@ In Python, the refactoring are the same, but some details are different.
 
 * [Refactoring, First Example][refactoring_pdf] extract from Martin Fowler's *Refactoring* book. 
 * [Refactoring slides from U. Colorado](https://www.cs.colorado.edu/~kena/classes/6448/s05/lectures/lecture19.pdf) step-by-step instructions for Java version of this example, including UML class diagram of progress.
+
